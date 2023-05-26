@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T16:05:52.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="FdR74xt_DjwvjMAA_Kvd" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T16:07:23.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="N8zKMKpeWYc-sPtBzs4P" version="21.3.4" type="github">
   <diagram name="Página-1" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="739" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,12 @@
           <mxGeometry x="101" width="115" height="24" as="geometry">
             <mxRectangle width="115" height="24" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qu1HSt9WwSII7SMBcl9J-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qu1HSt9WwSII7SMBcl9J-52" target="qu1HSt9WwSII7SMBcl9J-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qu1HSt9WwSII7SMBcl9J-52" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
