@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T22:40:27.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="AdfeF_-MMGW6MaPnhGP6" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T22:41:09.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="NKPT4Hx9zEwJ9lqyXZLe" version="21.3.7" type="github">
   <diagram name="Página-1" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1114" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             <mxPoint x="300" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-8" value="PRUMAX envia as notas e pedidos" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-8" value="PROMAX envia as notas e pedidos" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-11" value="o SAP concilia o contábil e faz o aceite em relação as notas fiscais e pedidos que vem do PROMAX" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
