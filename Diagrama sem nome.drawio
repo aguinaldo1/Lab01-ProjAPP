@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T11:38:00.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="1xHlpQrXGIewUvKIgpQB" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-11T12:00:36.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="FYsGNUxj5qIPEwFLpf5j" version="21.3.7" type="github" pages="3">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
-    <mxGraphModel dx="1232" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
         <mxCell id="9pQ64Emwv4LPITdYgzX5-3" value="Doc. Fiscais" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="440" y="280" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9pQ64Emwv4LPITdYgzX5-4" value="vai na FB01 no SAP e gera um documento fiscal no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+        <mxCell id="9pQ64Emwv4LPITdYgzX5-4" value="vai na FB01 no SAP e gera um documento contábil no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="520" y="309" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9pQ64Emwv4LPITdYgzX5-8" value="sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
