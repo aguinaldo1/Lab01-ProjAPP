@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T22:41:09.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="NKPT4Hx9zEwJ9lqyXZLe" version="21.3.7" type="github">
-  <diagram name="Página-1" id="FYMTjBYePlC2DOv42e8Q">
-    <mxGraphModel dx="1114" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-06-11T10:33:08.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="41pfTH0UCSjtDrhoxmex" version="21.3.7" type="github" pages="3">
+  <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
+    <mxGraphModel dx="1232" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,246 @@
           <mxGeometry x="585" y="510" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-36" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="420" width="335" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="mod-Recebiveis" id="u37iiUtKy4Pvebnfom2-">
+    <mxGraphModel dx="739" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-0" />
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-1" parent="Rk-nTdF6yKmfxF4wdlLT-0" />
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-3" target="Rk-nTdF6yKmfxF4wdlLT-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-3" value="Belaz" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="480" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-6" target="Rk-nTdF6yKmfxF4wdlLT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="280" />
+              <mxPoint x="520" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=oval;endFill=1;dashed=1;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-6" target="Rk-nTdF6yKmfxF4wdlLT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-6" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-8" target="Rk-nTdF6yKmfxF4wdlLT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-8" value="PROMAX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-10" value="Ação: abrir chamado para o time SAP" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="580" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;endArrow=oval;endFill=1;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-12" target="Rk-nTdF6yKmfxF4wdlLT-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-12" value="PROMAX envia as notas e pedidos" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="200" y="230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-13" value="o SAP concilia o contábil e faz o aceite em relação as notas fiscais e pedidos que vem do PROMAX" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="810" y="279" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-15" target="Rk-nTdF6yKmfxF4wdlLT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="120" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-17" value="vendas no PROMAX" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="80" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-18" value="na madrugada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="360" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-19" value="na madrugada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="560" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-20" value="sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="555.5" y="366" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-21" value="não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="690" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-22" value="não Escrituração após 30min." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="545" y="261" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-24" target="Rk-nTdF6yKmfxF4wdlLT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-24" value="Dentro do BELAZ faz-se o monitoramento dos pedidos, das notas fiscais que vão entrando para o SAP." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="300" y="470" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-25" value="TimeOut = 3D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="551" y="279" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-26" value="3 Dias reprocessando e não tendo solução - é criado uma nota &quot;Writer&quot; no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="90" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-27" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="617.5" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-28" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="697.5" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-29" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="780" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-30" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="585" y="440" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-31" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="585" y="510" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-32" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
+          <mxGeometry x="559" y="420" width="335" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="mod-MovEstoques" id="80mQ_FafsET2PYrHEtAr">
+    <mxGraphModel dx="739" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-0" />
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-1" parent="1B4FU5mbZ4XjkNSZoRNT-0" />
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-3" target="1B4FU5mbZ4XjkNSZoRNT-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-3" value="Belaz" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="480" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-6" target="1B4FU5mbZ4XjkNSZoRNT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="280" />
+              <mxPoint x="520" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=oval;endFill=1;dashed=1;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-6" target="1B4FU5mbZ4XjkNSZoRNT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-6" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-8" target="1B4FU5mbZ4XjkNSZoRNT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-8" value="PROMAX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-10" value="Ação: abrir chamado para o time SAP" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="580" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;endArrow=oval;endFill=1;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-12" target="1B4FU5mbZ4XjkNSZoRNT-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-12" value="PROMAX envia as notas e pedidos" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="200" y="230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-13" value="o SAP concilia o contábil e faz o aceite em relação as notas fiscais e pedidos que vem do PROMAX" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="810" y="279" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-15" target="1B4FU5mbZ4XjkNSZoRNT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="120" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-17" value="vendas no PROMAX" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="80" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-18" value="na madrugada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="360" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-19" value="na madrugada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="560" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-20" value="sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="555.5" y="366" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-21" value="não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="690" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-22" value="não Escrituração após 30min." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="545" y="261" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1B4FU5mbZ4XjkNSZoRNT-1" source="1B4FU5mbZ4XjkNSZoRNT-24" target="1B4FU5mbZ4XjkNSZoRNT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-24" value="Dentro do BELAZ faz-se o monitoramento dos pedidos, das notas fiscais que vão entrando para o SAP." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="300" y="470" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-25" value="TimeOut = 3D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="551" y="279" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-26" value="3 Dias reprocessando e não tendo solução - é criado uma nota &quot;Writer&quot; no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="90" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-27" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="617.5" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-28" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="697.5" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-29" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="780" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-30" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="585" y="440" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-31" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+          <mxGeometry x="585" y="510" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FU5mbZ4XjkNSZoRNT-32" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
           <mxGeometry x="559" y="420" width="335" height="20" as="geometry" />
         </mxCell>
       </root>
