@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T13:04:09.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="-dRs5SqN7RRbcyvGHsbJ" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-11T13:17:56.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="zsIXSj87wv_TtSjnDtad" version="21.3.7" type="github" pages="3">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1642" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="mod-MovEstoques" id="80mQ_FafsET2PYrHEtAr">
-    <mxGraphModel dx="834" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="1B4FU5mbZ4XjkNSZoRNT-0" />
         <mxCell id="1B4FU5mbZ4XjkNSZoRNT-1" parent="1B4FU5mbZ4XjkNSZoRNT-0" />
@@ -231,7 +231,7 @@
         <mxCell id="9Cx3MuvOHhkzexE3_5ip-6" value="Dentro do BELAZ faz-se o monitoramento dos pedidos, das notas fiscais que vão entrando para o SAP." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
           <mxGeometry x="100" y="430" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9Cx3MuvOHhkzexE3_5ip-7" value="&lt;font color=&quot;#ff3333&quot;&gt;Aqui é a contabilização das notas fiscais do mod. anterior&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
+        <mxCell id="9Cx3MuvOHhkzexE3_5ip-7" value="&lt;font color=&quot;#ff3333&quot;&gt;Aqui é a doc. gerado pela Movimentação de materiais&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
           <mxGeometry x="110" y="110" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Cx3MuvOHhkzexE3_5ip-8" value="&lt;font color=&quot;#00cc00&quot;&gt;só lançamos documentos DA ou EX no sap&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1B4FU5mbZ4XjkNSZoRNT-1">
