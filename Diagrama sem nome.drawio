@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T12:02:54.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="SF0TjWTa31QogitPggPZ" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-11T12:14:49.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="bbTPqgK3OC6NlrAyj-ko" version="21.3.7" type="github" pages="3">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
-    <mxGraphModel dx="1344" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="mod-Recebiveis" id="u37iiUtKy4Pvebnfom2-">
-    <mxGraphModel dx="869" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1031" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-0" />
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-1" parent="Rk-nTdF6yKmfxF4wdlLT-0" />
@@ -145,22 +145,11 @@
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-6" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-10" value="Ação: abrir chamado para o time SAP" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="630" y="130" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-13" value="o SAP concilia o contábil e faz o aceite em relação as notas fiscais e pedidos que vem do PROMAX" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="860" y="239" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-21" value="não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="430" y="250" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-22" value="não Escrituração após 30min." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="595" y="221" width="165" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="Rk-nTdF6yKmfxF4wdlLT-1" source="Rk-nTdF6yKmfxF4wdlLT-24" target="Rk-nTdF6yKmfxF4wdlLT-3">
           <mxGeometry relative="1" as="geometry">
@@ -172,30 +161,6 @@
         </mxCell>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-24" value="Dentro do BELAZ faz-se o monitoramento dos pedidos, das notas fiscais que vão entrando para o SAP." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="100" y="430" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-25" value="TimeOut = 3D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="601" y="239" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-26" value="3 Dias reprocessando e não tendo solução - é criado uma nota &quot;Writer&quot; no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="140" y="540" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-27" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="708.5" y="580" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-28" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="788.5" y="580" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-29" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="871" y="580" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-30" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="676" y="580" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-31" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="676" y="650" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Rk-nTdF6yKmfxF4wdlLT-32" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
-          <mxGeometry x="650" y="560" width="335" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9pQ64Emwv4LPITdYgzX5-0" value="&lt;font color=&quot;#ff3333&quot;&gt;Aqui é a contabilização das notas fiscais do mod. anterior&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Rk-nTdF6yKmfxF4wdlLT-1">
           <mxGeometry x="110" y="110" width="360" height="30" as="geometry" />
