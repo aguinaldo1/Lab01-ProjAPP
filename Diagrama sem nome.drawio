@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T17:13:04.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="gXjplLN72lSO_WLkAIpM" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-12T17:13:50.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="aV3yiBARWvEZyhRePQNA" version="21.3.8" type="github" pages="4">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1292" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -111,11 +111,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HEG7nhZmbv9wWNB4r_eM" name="Step-SAP">
-    <mxGraphModel dx="1615" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5U99RxdzklPisE4i-1Tl-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5U99RxdzklPisE4i-1Tl-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1FC;dashed=1;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="278" width="850" height="380" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--1" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
