@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T12:35:38.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="QCEe42urohmkWDJI-yxN" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:46:54.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="70jjYerKG0Kn2XggP9XT" version="21.3.7" type="github" pages="3">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1360" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -90,41 +90,41 @@
         <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-28" value="3 Dias reprocessando e não tendo solução - é criado uma nota &quot;Writer&quot; no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-30" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="617.5" y="440" width="100" height="60" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-3" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="550" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-31" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="697.5" y="440" width="100" height="60" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-4" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="748.5" y="550" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-32" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="780" y="440" width="100" height="60" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-5" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="831" y="550" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-33" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="585" y="440" width="50" height="60" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-6" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="636" y="550" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-35" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="510" width="200" height="110" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-7" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="636" y="620" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Rg6NBaC7I_4Q3Aoimb-7-36" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="420" width="335" height="20" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-8" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="335" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XzcwxMrILsMq7qP77e5U-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="717.5" y="623" width="20" height="20" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="733" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XzcwxMrILsMq7qP77e5U-2" value="Step Entrada = Chegou no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="751" y="618" width="209" height="30" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-10" value="Step Entrada = Chegou no SAP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802" y="728" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XzcwxMrILsMq7qP77e5U-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="717.5" y="653" width="20" height="20" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="763" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XzcwxMrILsMq7qP77e5U-4" value="Step SAP = Efetuou o processo e gerou os 4 docs." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="751" y="648" width="279" height="30" as="geometry" />
+        <mxCell id="v2xW5JWM1GRWZ7QS8aLV-12" value="Step SAP = Efetuou o processo e gerou os 4 docs." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802" y="758" width="279" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="mod-Recebiveis" id="u37iiUtKy4Pvebnfom2-">
-    <mxGraphModel dx="1460" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-0" />
         <mxCell id="Rk-nTdF6yKmfxF4wdlLT-1" parent="Rk-nTdF6yKmfxF4wdlLT-0" />
