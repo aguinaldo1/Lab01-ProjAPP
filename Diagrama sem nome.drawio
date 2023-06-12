@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T17:12:29.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="H-ulZC-57-K9Pvm_fx9q" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-12T17:13:04.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="gXjplLN72lSO_WLkAIpM" version="21.3.8" type="github" pages="4">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1292" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="5U99RxdzklPisE4i-1Tl-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="408" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5U99RxdzklPisE4i-1Tl-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="5U99RxdzklPisE4i-1Tl-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#78AEFF;" vertex="1" parent="1">
           <mxGeometry x="960" y="408" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5U99RxdzklPisE4i-1Tl-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#1FFF3D;strokeColor=default;" vertex="1" parent="1">
@@ -177,7 +177,7 @@
             <mxPoint x="140" y="388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U99RxdzklPisE4i-1Tl-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+        <mxCell id="5U99RxdzklPisE4i-1Tl-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="306" y="168" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5U99RxdzklPisE4i-1Tl-21" value="Belaz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
