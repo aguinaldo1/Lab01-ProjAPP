@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T17:00:12.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="fYO_27EJhYYeV9jV2X7i" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-12T17:09:25.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="UlIT9h5qPPsxd2_0ugGO" version="21.3.8" type="github" pages="4">
   <diagram name="mod-Nfiscal" id="FYMTjBYePlC2DOv42e8Q">
     <mxGraphModel dx="1292" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -110,28 +110,67 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HEG7nhZmbv9wWNB4r_eM" name="Página-4">
+  <diagram id="HEG7nhZmbv9wWNB4r_eM" name="Step-SAP">
     <mxGraphModel dx="1292" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8RRb-Fcgof6el_nPhph--1" value="2" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="328.5" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="438.5" y="420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--2" value="3" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="518.5" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8RRb-Fcgof6el_nPhph--3" target="5U99RxdzklPisE4i-1Tl-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--3" value="4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="491" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="601" y="420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--4" value="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.6;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="296" y="210" width="50" height="60" as="geometry" />
+          <mxGeometry x="406" y="420" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--5" value="Documentos que o SAP tem que gerar, quando não gera tem que ser reprocessado:&lt;br&gt;1 - Conversão&lt;br&gt;2 - Criação de pedido&lt;br&gt;3 - Escrituração da nota fiscal&lt;br&gt;4 - Devolução" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="296" y="280" width="200" height="110" as="geometry" />
+          <mxGeometry x="406" y="490" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8RRb-Fcgof6el_nPhph--6" value="4 steps no SAP para fazer o reprocessamento com sucesso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="335" height="20" as="geometry" />
+          <mxGeometry x="380" y="400" width="335" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U99RxdzklPisE4i-1Tl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-1" value="Nota Fiscal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U99RxdzklPisE4i-1Tl-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#1FFF3D;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="910" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="805" y="350" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U99RxdzklPisE4i-1Tl-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="336" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U99RxdzklPisE4i-1Tl-21" value="Belaz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="185" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
